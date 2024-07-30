@@ -19,4 +19,8 @@
 #include <SFML/Graphics.hpp>
 #include <SFML/System.hpp>
 
+#include <fmt/core.h>
+
+#include "stdcst.h"
+
 #pragma warning(disable:4996)
