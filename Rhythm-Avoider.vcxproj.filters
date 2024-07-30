@@ -21,10 +21,10 @@
     <ClCompile Include="src\GameManager.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="State.cpp">
+    <ClCompile Include="src\State.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="TitleState.cpp">
+    <ClCompile Include="src\TitleState.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
@@ -32,10 +32,10 @@
     <ClInclude Include="src\GameManager.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="State.h">
+    <ClInclude Include="src\State.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="TitleState.h">
+    <ClInclude Include="src\TitleState.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="src\header\stdafx.h">
